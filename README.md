@@ -1,7 +1,7 @@
 
-# <h1>TypeScript-CovidMap-App</h1>
+# <h1>CovidMap-App</h1>
 
-This website provides data on current coronavirus cases by country. Unit tests of the application have been done.
+This website provides data on current coronavirus cases by country. Advanced state management tools such as redux js/toolkit were used in state management in the application.Unit tests of the application have been done. 
 
 <h2> Programming Languages Used</h2>
 
